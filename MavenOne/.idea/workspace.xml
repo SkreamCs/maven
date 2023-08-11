@@ -11,16 +11,15 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/ru/netology/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/Db.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/DbSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/MyEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/db/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/Db.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/DbSetting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/MyEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/MyService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/ru/netology/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/ru/netology/MyService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +60,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "azul-16 (2)",
+    "last_opened_file_path": "/Users/mustafatumgoev/Desktop/Новая папка 2/MavenOne",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +73,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db" />
+      <recent name="$PROJECT_DIR$/service" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691777071516</updated>
       <workItem from="1691777072669" duration="765000" />
+      <workItem from="1691790669493" duration="741000" />
     </task>
     <servers />
   </component>

@@ -10,17 +10,16 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/ru/netology/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/Db.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/DbSetting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/MyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/Db.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/DbSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/MyEntity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/ru/netology/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/ru/netology/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/MyService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/Main.java" afterDir="false" />
     </list>
@@ -69,6 +68,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db" />
+      <recent name="$PROJECT_DIR$/service" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="GradleTwo [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -106,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691782360670</updated>
       <workItem from="1691782361775" duration="451000" />
-      <workItem from="1691782917774" duration="18000" />
+      <workItem from="1691782917774" duration="935000" />
     </task>
     <servers />
   </component>
